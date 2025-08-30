@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.0",
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
